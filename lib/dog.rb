@@ -9,4 +9,4 @@ class Dog
   
   
 end
-# lassie.name = "Lassie"
+lassie.name = "Lassie"
